@@ -7,6 +7,8 @@ h1, h2, h3, h4, h5, h6, h7 {font-family: 'Patua One', cursive;}
 
 .maindiv {border-bottom: solid 2px #003399; margin-bottom: 1rem; width: 100%;}
 
+footer {font-size: 1rem;}
+
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 834px)
